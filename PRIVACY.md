@@ -61,6 +61,3 @@ con dati personali reali.
 Eventuali modifiche a questa informativa saranno pubblicate su questa pagina,
 con la data di aggiornamento.
 
-## Contatti
-
-Per domande: <email di contatto>
